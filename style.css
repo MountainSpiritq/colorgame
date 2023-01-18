@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    max-width: 600px;
+    margin: 0 auto;
+    
+}
+.square{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.parent{
+    position: relative;
+}
+.msg{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
